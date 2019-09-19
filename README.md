@@ -7,7 +7,7 @@
 
 ## Cited presentation
 
-- [](CSS FLEXBOX AND GRID.pptx)
+- [Presentation](CSS-FLEXBOX-AND-GRID.pdf)
 
 ## References
 
